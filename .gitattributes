@@ -1,0 +1,4 @@
+*                text=auto
+*.git attributes text
+*,git ignore     text
+*.md             text diff=markdown
